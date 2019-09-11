@@ -76,6 +76,29 @@ ul li a{
     background: rgb(230, 22, 22);
 }
 */
+
+
+#vermas p a{
+    background: rgb(78, 76, 76);
+    border: 3px solid rgb(223, 14, 14);
+    padding: 5px 15px;
+    margin: 5px 370px auto;
+}
+#vermas p{
+    display: inline-block;
+    list-style: none;
+    padding: 15px 35px;
+}
+
+.ver a{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+aside p a{
+    color: rgb(248, 248, 248);
+}
+
 #final{
     clear: both;
     border-top: 2px solid #fff; 
