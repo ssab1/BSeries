@@ -1,4 +1,11 @@
-section article table td:hover{
-    opacity: 9;
-    cursor: pointer;
+
+section article{
+    margin: 60px auto;
+}
+
+
+aside iframe{
+    margin: 100px;
+    clear: both;
+    
 }
