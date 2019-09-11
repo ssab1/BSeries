@@ -1,0 +1,55 @@
+.carrusel{
+    width: 80%;/**/
+    margin: 20px auto;/*margen auto*/
+    overflow: hidden;
+}
+
+.carrusel ul{
+    display: flex;/*poner imagenes lado a lado*/
+    padding: 0;
+    width: 700%;/*dar espacio entre imagenes*/
+
+    animation: cambio 20s infinite alternate;
+    /*tener una animacion de 20s infinita que se alterne y regrese desde
+    el principio al final y a la viceversa*/
+
+    
+}
+
+.carrusel li{
+    width: 700%;
+    list-style: none;
+    /*quitar viÃ±eta*/
+}
+
+.carrusel img{
+    width: 100%;/**/
+}
+
+/*paradas*/
+@keyframes cambio{
+    0% {margin-left: 0;}
+    10% {margin-left: 0;}
+
+    15% {margin-left: -100%;}
+    25% {margin-left: -100%;}
+
+    30% {margin-left: -200%;}
+    40% {margin-left: -200%;}
+
+    45% {margin-left: -300%;}
+    55% {margin-left: -300%;}
+
+    60% {margin-left: -400%;}
+    70% {margin-left: -400%;}
+
+    75% {margin-left: -500%;}
+    85% {margin-left: -500%;}
+
+    90% {margin-left: -600%;}
+    100% {margin-left: -600%;}
+}
+
+.parrafo p{
+    font-family: 'Lexend Deca', sans-serif;
+}

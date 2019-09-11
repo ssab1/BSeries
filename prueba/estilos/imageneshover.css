@@ -1,0 +1,4 @@
+section article table td:hover{
+    opacity: 9;
+    cursor: pointer;
+}
