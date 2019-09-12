@@ -1,7 +1,7 @@
 # BSeries
 :alien:    :zzz:  :bike: 
 
-##Somos una pagina encargada de entrega reseñas sobre series dando a conocer sus temporadas 
+#Somos una pagina encargada de entrega reseñas sobre series dando a conocer sus temporadas 
 
 ![Captura](https://user-images.githubusercontent.com/51329760/64754230-d3b1c200-d4fc-11e9-9f74-441775b8b5ea.PNG)
 
