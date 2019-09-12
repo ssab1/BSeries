@@ -55,5 +55,23 @@ table#t03 th {
   background-color: black;
   color: rgb(252, 250, 250);
 }
+table#t04 tr:nth-child(even) {
+  margin: 0px auto;
+background-color: rgb(190, 35, 35);
+}
+
+table#t04 th {
+background-color: black;
+color: rgb(252, 250, 250);
+}
+table#t05 tr:nth-child(even) {
+  margin: 0px auto;
+background-color: rgb(190, 35, 35);
+}
+
+table#t05 th {
+background-color: black;
+color: rgb(252, 250, 250);
+}
 
 
