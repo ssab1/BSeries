@@ -72,6 +72,10 @@ ul li a{
     background-color:rgb(94, 92, 92);
 }
 
+.orden13razon p a{
+    color: rgb(255, 0, 0);
+}
+
 /*
 #columna{
     float: RIGHT;
